@@ -1,2 +1,15 @@
 # Student-Database-Cpp
-Student database management system using C++
+# Student Database Management System (C++)
+
+## Features
+- Add student records
+- Display records
+- Search by roll number
+- Update student details
+- Delete records
+
+## Technologies Used
+- C++
+
+## Author
+Ansha
